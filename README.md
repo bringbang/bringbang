@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm bringbang
-- 🔭 I’m looking passion senior project. 
+- 🔭 I’m looking passion senior project. :sparkles:
 <!--
 **bringbang/bringbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
